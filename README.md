@@ -1,3 +1,6 @@
+ΓΚΑΡΑΓΚΑΝΗΣ ΓΕΩΡΓΙΟΣ
+23391060
+4ο Εξάμηνο
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
